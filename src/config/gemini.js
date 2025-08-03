@@ -12,7 +12,7 @@
 
 // // async function main(prompt) {
 // //   const ai = new GoogleGenAI({
-// //     apiKey: "AIzaSyAnYLLJsjjCjKTcsOGQQADtFNspfQGPps4",
+// //     apiKey: "",
 // //   });
 // //   const tools = [
 // //     {
